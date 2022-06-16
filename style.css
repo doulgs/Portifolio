@@ -447,11 +447,11 @@ section .title::after {
   width: 80%;
 }
 
-.skills-content .right .vue::before {
+.skills-content .right .vue:before {
   width: 30%;
 }
 
-.skills-content .right .typeScript::before {
+.skills-content .right .typeScript:before {
   width: 20%;
 }
 
@@ -474,8 +474,7 @@ section .title::after {
 }
 
 .box__link {
-  text-decoration: none;
-  color: #fff;
+  color: white;
 }
 
 .teams .carousel .card .box {
